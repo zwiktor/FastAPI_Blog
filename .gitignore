@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 txtFile
 .idea/
+blog_api.db
